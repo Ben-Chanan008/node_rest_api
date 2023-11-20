@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Ben Ken-Idehen",
+        "email": "bchanan.boss@gmail.com",
+        "password": ".boss008"  
+    },
+    {
+        "id": 2,
+        "name": "David Jaja",
+        "email": "okojaja@gmail.com",
+        "password": "davidjaja1611"  
+    },
+    {
+        "id": 3,
+        "name": "Ola Suleman",
+        "email": "ola@gmail.com",
+        "password": "olasule"  
+    },
+    {
+        "id": 4,
+        "name": "Jayden Smith",
+        "email": "jay@gmail.com",
+        "password": "jay1234"  
+    },
+    {
+        "id": 5,
+        "name": "Okpa Akpos",
+        "email": "akpor@gmail.com",
+        "password": "akpororoak123@#"  
+    }
+]
